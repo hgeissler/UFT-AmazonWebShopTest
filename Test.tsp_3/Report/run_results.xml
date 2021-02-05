@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<Results version="1.0">
+<ReportNode type="testrun">
+<ReportNode type="Action">
+<Data>
+    <Name>TestAction</Name>
+    <Description />
+    <StartTime>2021-01-29 16:13:21</StartTime>
+    <Result>Done</Result>
+    <InputParameters>
+      <Parameter name="ParamSearch" value="adidas kaiser schuhe" type="System.String" />
+    </InputParameters>
+    <Extension>
+      <IconKey>43bef06f479847a89eb33997c0d8778d</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>TestCase1</Name>
+    <ToolName>Micro Focus Unified Functional Testing</ToolName>
+    <ToolVersion>0</ToolVersion>
+    <ToolVersionStringLiteral>15.0.2</ToolVersionStringLiteral>
+    <Description />
+    <StartTime>2021-01-29 16:13:21</StartTime>
+    <Duration>6</Duration>
+    <Result>Done</Result>
+    <InputParameters>
+      <Parameter name="ParamSearch" value="adidas kaiser schuhe" type="System.String" />
+    </InputParameters>
+    <Extension>
+      <IconKey>cdf5ac7343394ca39fa2e62bd2910e1d</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Environment>
+      <Timezone>+01:00:00</Timezone>
+      <Locale>English (Germany)</Locale>
+      <User>Hannes</User>
+      <CpuInfo>Intel(R) Core(TM) i5-1035G4 CPU @ 1.10GHz</CpuInfo>
+      <NumberOfCores>8</NumberOfCores>
+      <TotalMemory>7778</TotalMemory>
+      <HostName>SURFACE-HGEISSL</HostName>
+      <OSInfo>Windows 10</OSInfo>
+    </Environment>
+    <TestedApplications />
+    <Links>
+      <Link type="DataTable" reference="Default.xlsx" displayname="Default Data Table" />
+    </Links>
+  </Data>
+</ReportNode>
+<GeneralInfo>
+    <ResultName>Test.tsp_3</ResultName>
+    <RunStartTime>2021-01-29 16:13:21</RunStartTime>
+    <Timezone>+01:00:00</Timezone>
+    <OrchestrationToolName>Micro Focus Unified Functional Testing</OrchestrationToolName>
+    <OrchestrationToolVersion>0</OrchestrationToolVersion>
+    <OrchestrationToolVersionStringLiteral>15.0.2</OrchestrationToolVersionStringLiteral>
+  </GeneralInfo>
+</Results>
